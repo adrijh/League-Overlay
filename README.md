@@ -14,3 +14,5 @@ Reddit user Natnux for the Incursion Room Chart.
 
 Reddit user Dmcdouga for the Atlas Progression Chart.
 
+ZiggyD  for the Fossil Location Chart.
+
