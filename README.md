@@ -12,3 +12,5 @@ Reddit user Lymonator for creating the Syndicate Chart used in this script. Also
 
 Reddit user Natnux for the Incursion Room Chart.
 
+Reddit user Dmcdouga for the Atlas Progression Chart.
+
