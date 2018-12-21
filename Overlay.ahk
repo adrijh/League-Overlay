@@ -133,7 +133,7 @@ Loop 4
 }
 Return
 
-
+#IfWinActive Path of Exile
 f2::
 If (GuiON1 = 1) {
 Gui, 1: Hide
