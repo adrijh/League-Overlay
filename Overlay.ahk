@@ -13,12 +13,15 @@
 if not A_IsAdmin
 	Run *RunAs "%A_ScriptFullPath%"
 
+; Set the working directory to that of the script
+SetWorkingDir, %A_ScriptDir%
+
 #SingleInstance, Force
 #NoEnv
 SetBatchLines, -1
 
 ; Uncomment if Gdip.ahk is not in your standard library
-#Include, Gdip_All.ahk
+#Include, %A_ScriptDir%\Gdip_All.ahk
 
 ; Start gdi+
 If !pToken := Gdip_Startup()
